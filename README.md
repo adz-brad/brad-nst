@@ -5,14 +5,14 @@ I build intelligently designed, intuitively functional web, mobile & desktop app
 
 Currently, my favorite tools to work with include:
 
-### Frameworks
+#### Frameworks
 
 - React
 - React Native
 - Gatsby
 - NextJS
 
-### API Services
+#### API Services
 
 - Apollo GraphQL
 - MongoDB Atlas & Realm
@@ -21,21 +21,21 @@ Currently, my favorite tools to work with include:
 - Twilio
 - Zapier
 
-### CDN
+#### CDN
 
 - Netlify
 - Vercel
 - Heroku
 - Gatsby Cloud
 
-### CMS
+#### CMS
 
 - Sanity
 - Contentful
 - Strapi
 - GraphCMS
 
-### ECommerce
+#### ECommerce
 
 - Shopify
 - Crystallize
