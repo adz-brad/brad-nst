@@ -3,7 +3,7 @@
 
 I build intelligently designed, intuitively functional web, mobile & desktop applications designed to streamline business processes, increase client satisfaction and improve overall revenue. Simply put, I build enterprise-grade applications that scale.
 
-Currently, my favorite tools to work with include:
+Currently, my favorite tools to work with include (though aren't limited to):
 
 #### Frameworks
 
